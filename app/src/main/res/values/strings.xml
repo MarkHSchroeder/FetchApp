@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FetchApp</string>
+
+    <string name="listId">ListId: %s</string>
+    <string name="errorListFailed">Error Loading Data</string>
+    <string name="errorException">Error %s</string>
+    <string name="errorUndefined">Undefined</string>
+</resources>
