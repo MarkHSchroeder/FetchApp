@@ -36,7 +36,7 @@ Retrieve a list of items from https://fetch-hiring.s3.amazonaws.com/hiring.json.
   - **Android SDK:** For building the Android application.
   - **Jetpack Compose:** For UI.
   - **Coroutines:** For asynchronous tasks.
-  - **Hilt:** For dependancy injection.
+  - **Hilt:** For dependency injection.
   - **Retrofit:** For network requests to fetch weather data.
 
 ## Support

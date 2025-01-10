@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "FetchApp"
-include ':app'
+include(":app")
+ 
