@@ -37,7 +37,11 @@ Retrieve a list of items from https://fetch-hiring.s3.amazonaws.com/hiring.json.
   - **Jetpack Compose:** For UI.
   - **Coroutines:** For asynchronous tasks.
   - **Hilt:** For dependency injection.
-  - **Retrofit:** For network requests to fetch weather data.
+  - **Retrofit:** For network requests to fetch data.
+
+## Build With
+
+Android Studio Ladybug | 2024.2.1 Patch 3
 
 ## Support
 
